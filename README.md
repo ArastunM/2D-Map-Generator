@@ -1,7 +1,7 @@
 # 2D-Map-Generator
 2D Map Generator is a Java program that can be used to 
 generate procedural physical maps. While the generation process is randomized 
-to a degree, it also depends on raw parameters that can be set at Map.java.
+to a degree, it also depends on raw parameters that can be set at [Map.java](src/Map.java).
 
 The generation algorithm is based on the idea of "self aware" pixels that can 
 decide on their background color based on their neighborhood (surrounding pixels). 
