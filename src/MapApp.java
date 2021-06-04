@@ -39,8 +39,7 @@ public class MapApp {
         panel = new JPanel();
         panel.setLayout(new GridLayout(resolution, resolution));
 
-        Map map = new Map();
-        System.out.println(getCoverageOf(map, Map.seaColor));
+        new Map();
 
         frame.add(panel, BorderLayout.CENTER);
         pageRefresh();
