@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AwarePixel"},{"p":"<Unnamed>","l":"Bias"},{"p":"<Unnamed>","l":"Map"},{"p":"<Unnamed>","l":"MapApp"},{"p":"<Unnamed>","l":"NeighborLogics"},{"p":"<Unnamed>","l":"Pixel"},{"p":"<Unnamed>","l":"SidePanel"},{"p":"<Unnamed>","l":"TypePacks"}];updateSearchResults();
