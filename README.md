@@ -11,7 +11,13 @@ The GUI provides already set parameter packages that would allow the user to
 generate maps of certain type (islands, lakes, peninsula) and resolution. The program 
 also provides the option of saving the generated map to the local system.
 
-<img src="examples/islands2.png">
+<hr>
+<div>
+  <img src="examples/islands2.PNG" height="200" width="200">
+  <img src="examples/peninsula2.PNG" height="200" width="200">
+  <img src="examples/lakes2.PNG" height="200" width="200">
+  <img src="examples/peninsula3.PNG" height="200" width="200">
+</div>
 
 ## Prerequisites
 [Java version 15.0.1](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html) 
