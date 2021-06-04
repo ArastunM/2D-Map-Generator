@@ -20,7 +20,7 @@ The project utilizes in-built Java package [Swing](https://en.wikipedia.org/wiki
 the GUI, hence no additional installations are required
 
 ## Getting Started
-The program can run by downloading, unzipping [Map%20Generator.zip](Map%20Generator.zip) and running the **Map Generator.jar**
+The program can run by downloading, unzipping [Map Generator.zip](Map%20Generator.zip) and running the **Map Generator.jar**
 
 ## Details
 - Author - Arastun Mammadli
